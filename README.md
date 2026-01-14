@@ -98,3 +98,72 @@ A customizable folder launcher utility built with AutoHotkey (AHK), designed to 
 - Tip for third‑party managers: To use your third‑party file manager on simple left‑click and reserve Explorer for Ctrl+left‑click, disable Make Explorer Default.
 
 ---
+
+## 🌿 Demo Screenshot 📷 
+
+
+
+___
+
+
+
+_ 📌 Folders Launcher View
+
+
+
+![A1 Settings](Images/A1.png)
+
+
+
+___
+
+
+
+_ 📜 Main Setting
+
+
+
+![A2 Settings](Images/A2.png)
+
+
+
+___
+
+
+
+_ 📗 Slots 1-8
+
+
+
+![A3 Settings](Images/A3.png)
+
+
+
+___
+
+
+
+_ 📘 Slots 8-16
+
+
+
+![A4 Settings](Images/A4.png)
+
+
+
+___
+
+
+
+_ 🎁 My Personal Set of Icons Packs Bonus 🙂
+
+
+
+![A5 Settings](Images/A5.png)
+
+
+
+___
+
+
+
